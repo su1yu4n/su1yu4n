@@ -2,7 +2,7 @@
 Hi, I’m @su1yu4n / 随缘. I'm a member of the CTF team @Nepnep. \
 I’m interested in **modern mathematics**, **cryptology**(especially public key cryptography) and knowledge about underlying computer system. 
 I’m currently reading the Arithmetic of Elliptic Curves(GTM106), the algebraic number theory part in Napkin and papers on FHE. \
-I love Vocaloid songs a lot and I've been collecting of nice songs on bilibili. [Here](https://space.bilibili.com/486203906/favlist?fid=1416101706)'s a collection of the best songs I've ever heard. 
+I love Vocaloid and I've been collecting some nice songs on bilibili. [Here](https://space.bilibili.com/486203906/favlist?fid=1416101706)'s a collection of the best songs I've ever heard. 
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=su1yu4n&count_private=true&theme=cobalt&show_icons=true)
@@ -34,6 +34,8 @@ I love Vocaloid songs a lot and I've been collecting of nice songs on bilibili. 
   - Algebraic curves
   - **Elliptic curves in cryptography**
   - Algorithmic number theory 
+
+  *By the way, I've uploaded [my mini course on algebra and number theory for cryptography](https://www.bilibili.com/video/BV16F411377F) to bilibili (taught in Chinese).*
 
 
 <!---
