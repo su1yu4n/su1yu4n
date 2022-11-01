@@ -1,8 +1,10 @@
 # About
-Hi, I’m @su1yu4n / 随缘. I'm a member of both teams, Nepnep and @XDSEC.  \
-I’m interested in **modern mathematics**, **cryptology**(especially public key cryptography) and knowledge about underlying computer system. 
-I’m currently reading the Arithmetic of Elliptic Curves(GTM106), the algebraic number theory part in Evan Chen's Napkin and papers on FHE. \
-I love Vocaloid and I've been collecting some nice songs on bilibili. [Here](https://space.bilibili.com/486203906/favlist?fid=1416101706)'s a collection of the best songs I've ever heard. 
+Hi, I’m @su1yu4n / 随缘. I'm a member of[@Nepnep](https://ctftime.org/team/106104) and [@XDSEC](https://github.com/XDSEC).  \
+I’m interested in **modern mathematics**, **cryptology**(especially public key cryptography) and knowledge about underlying computer system. \
+~~I’m currently reading the Arithmetic of Elliptic Curves(GTM106), the algebraic number theory part in Evan Chen's Napkin and some papers on FHE.~~
+\
+I'm currently learning CTF crypto and pwn, preparing for the upcoming CTF events... (from 2022.11.1 to 2022.11.20, maybe) 
+I love Vocaloid music and I've been collecting some nice songs on bilibili. [Here](https://space.bilibili.com/486203906/favlist?fid=1416101706)'s a collection of the best songs I've ever heard. 
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=su1yu4n&count_private=true&theme=cobalt&show_icons=true)
@@ -10,11 +12,11 @@ I love Vocaloid and I've been collecting some nice songs on bilibili. [Here](htt
 # Contact 
 - Email: su1yu4n@gmail.com
 - Bilibili: [@芜航数学系随缘](https://space.bilibili.com/5896804) or [@初音ミクの粉丝](https://space.bilibili.com/486203906)
-- Blog: [my github page](su1yu4n.github.io) or [csdn blog](blog.csdn.net/qq_42667481)
+- Blog: [my github page](su1yu4n.github.io) and [csdn blog](blog.csdn.net/qq_42667481)
 
 # Programming Languages Skills
 - C
-- Python
+- Python3
 - Sagemath
 
 # Mathematics Skills
@@ -35,7 +37,7 @@ I love Vocaloid and I've been collecting some nice songs on bilibili. [Here](htt
   - **Elliptic curves in cryptography**
   - Algorithmic number theory 
 
-  *By the way, I've uploaded [my mini course on algebra and number theory for cryptography](https://www.bilibili.com/video/BV16F411377F) to bilibili (present in Chinese).*
+  *By the way, I've uploaded [my mini course on algebra and number theory for cryptography](https://www.bilibili.com/video/BV16F411377F) to bilibili (present in Chinese). I've uploaded something about Elliptic Curves also.*
 
 
 <!---
