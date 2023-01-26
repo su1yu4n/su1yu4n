@@ -1,9 +1,8 @@
 # About
 Hi, I’m @su1yu4n / 随缘. I'm a member of[@Nepnep](https://ctftime.org/team/106104) and [@XDSEC](https://github.com/XDSEC).  \
 I’m interested in **modern mathematics**, **cryptology**(especially public key cryptography) and knowledge about underlying computer system. \
-~~I’m currently reading the Arithmetic of Elliptic Curves(GTM106), the algebraic number theory part in Evan Chen's Napkin and some papers on FHE.~~
+**I’m currently preparing for watching my friend's presentations about automorphic representation.**
 \
-I'm currently learning CTF crypto and pwn, preparing for the upcoming CTF events... (from 2022.11.1 to 2022.11.20, maybe) 
 I love Vocaloid music and I've been collecting some nice songs on bilibili. [Here](https://space.bilibili.com/486203906/favlist?fid=1416101706)'s a collection of the best songs I've ever heard. 
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
