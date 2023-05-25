@@ -29,7 +29,7 @@ I’m interested in **modern mathematics**, **cryptology**(especially public key
 
 
 - I've learnt a bit about (familiarty from high to low): 
-  - **Riemann Surfaces**
+  - **Compact Riemann Surfaces**
   - Algorithmic number theory
   - General topology
   - Complex analysis
@@ -41,7 +41,7 @@ I’m interested in **modern mathematics**, **cryptology**(especially public key
   - ~Algebraic number theory~
   - ~Algebraic curves~
   - **Elliptic curves in cryptography, especially isogeny based crypto**
-  - **Riemann surfaces**
+  - **Compact Riemann surfaces**
   - Modular forms
 
   *By the way, I've uploaded [my mini course on algebra and number theory for cryptography](https://www.bilibili.com/video/BV16F411377F) to bilibili (present in Chinese). I've uploaded something about Elliptic Curves also.*
