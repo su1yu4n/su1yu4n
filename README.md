@@ -28,7 +28,7 @@ I’m interested in **modern mathematics**, **cryptology**(especially public key
   - **Basic abstract algebra**
 
 
-- I've learnt a bit about (sorted by familiarity from high to low): 
+- I've learnt a bit about (familiarty from high to low): 
   - **Riemann Surfaces**
   - Algorithmic number theory
   - General topology
