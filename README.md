@@ -3,7 +3,7 @@ Hi, I’m 随缘(su1yu4n). I'm a member of[@Nepnep](https://ctftime.org/team/106
 I’m interested in **mathematics**, **cryptology**(especially public key cryptography) and computer science. \
 ~I’m currently preparing for watching my friend's presentations about automorphic representation.~  \
 ~I’m currently learning attacks about SIDH/SIKE and other things about isogeny based crypto.~ \
-2023.7: **I'm currently studying ideal lattice and some real world cryptography.**
+(2023.7) **I'm currently studying ideal lattice and some real world cryptography.**
 
 \
 \
@@ -32,7 +32,7 @@ I’m interested in **mathematics**, **cryptology**(especially public key crypto
 - I've learned a bit about (familiarty from high to low): 
   - **Compact Riemann Surfaces**
   - Algorithmic number theory
-  - ~Elliptic curves in cryptography, especially isogeny based crypto~
+  - Elliptic curves in cryptography, especially isogeny based crypto
   - Topology (including some AT related to compact R.S.)
   - Complex analysis
   - Algebraic number theory
