@@ -31,18 +31,19 @@ I’m interested in **mathematics**, **cryptology**(especially public key crypto
 
 - I've learned something about (familiarty from high to low): 
   - **Compact Riemann Surfaces**
-  - **Elliptic curves in cryptography, especially isogeny based crypto**
-  - General topology (and a bit of algebraic topology encountered when learning Riemann surfaces.)
+  - **Elliptic curves (in) cryptography, also some isogeny based crypto**
   - Algorithmic number theory
-  - Complex analysis
+  - General topology (and a bit of algebraic topology encountered when learning Riemann surfaces)
   - **Provably Security**
-  - Homomorphic Encryption(Paillier-DJN, TFHE) and Secure Aggregation in Federated Learning
+  - Complex analysis
+  - Homomorphic Encryption (Pallier-DJN, TFHE, ...)
+  - cryptography in FL and PPML (HE and secure aggregation)
 
 - I'm learning or studying:
-  - distribution of quadratic residues
-  - more lattice based crypto
+  - **distribution of quadratic residues**
  
-- I plan to learn:
+- I've planned to learn:
+  - more lattice based crypto
   - Algebraic number theory (related to ideal lattice and more crypto)
   - Arakelov geometry
 
