@@ -1,13 +1,7 @@
 # About
 Hi, I’m 随缘 (su1yu4n). I'm a member of[@Nepnep](https://ctftime.org/team/106104) and [@XDSEC](https://github.com/XDSEC).  \
 I’m interested in **mathematics**, **cryptology**(especially public key cryptography) and computer science. \
-~I’m currently preparing for watching my friend's presentations about automorphic representation.~  \
-~I’m currently learning attacks about SIDH/SIKE and other things about isogeny based crypto.~ \
-(2023.7) **I'm currently studying ideal lattice and some real world cryptography.** \
-(2023.8) I'm currently touching fish...
-\
-\
-*I love music (especially some nice Vocaloid songs) and I've been collecting some nice songs on bilibili.*
+**I'm currently learning complex analysis and studying a problem related to the distribution of quadratic residues.**
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=su1yu4n&count_private=true&theme=cobalt&show_icons=true)
