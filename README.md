@@ -28,7 +28,7 @@ I’m interested in **mathematics**, **cryptology**(especially public key crypto
   - **Elliptic curves (in) cryptography, also some isogeny based crypto**
   - Algorithmic number theory
   - General topology (and a bit of algebraic topology encountered when learning Riemann surfaces)
-  - **Provably Security**
+  - **Provable Security**
   - Complex analysis
   - Homomorphic Encryption (Pallier-DJN, TFHE, ...)
   - cryptography in FL and PPML (HE and secure aggregation)
