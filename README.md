@@ -1,7 +1,7 @@
 # About
 Hi, I’m 随缘 (su1yu4n). I'm a member of[@Nepnep](https://ctftime.org/team/106104) and [@XDSEC](https://github.com/XDSEC).  \
 I’m interested in **mathematics**, **cryptology**(especially public key cryptography) and computer science. \
-**I'm currently learning complex analysis and studying a problem related to the distribution of quadratic residues.**
+**(2023.10) I'm currently learning and studying lattice based cryptography.**
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=su1yu4n&count_private=true&theme=cobalt&show_icons=true)
@@ -21,27 +21,22 @@ I’m interested in **mathematics**, **cryptology**(especially public key crypto
   - Basic linear algebra
   - **Elementary number theory**
   - **Basic abstract algebra**
-  - **Classic modern cryptography schemes** ,including well-known cryptanalysis on these schemes
+  - **Classic modern cryptography schemes**, including well-known cryptanalysis on these schemes
 
 - I've learned something about (familiarty from high to low): 
   - **Compact Riemann Surfaces**
   - **Elliptic curves (in) cryptography, also some isogeny based crypto**
   - Algorithmic number theory
-  - General topology (and a bit of algebraic topology encountered when learning Riemann surfaces)
-  - **Provable Security**
-  - Complex analysis
   - Homomorphic Encryption (Pallier-DJN, TFHE, ...)
-  - cryptography in FL and PPML (HE and secure aggregation)
 
 - I'm learning or studying:
-  - **distribution of quadratic residues**
+  - **lattice based cryptography**
  
 - I've planned to learn:
-  - more lattice based crypto
   - Algebraic number theory (related to ideal lattice and more crypto)
-  - Arakelov geometry
+  - Arakelov theory / geometry
 
-  *By the way, I've uploaded [my mini course on algebra and number theory for cryptography](https://www.bilibili.com/video/BV16F411377F) to bilibili (present in Chinese). I've uploaded a series of Elliptic Curves also.(but there are some mistakes and important things not covered or pointed out in this series)*
+  *By the way, I've uploaded [my mini course on algebra and number theory for cryptography](https://www.bilibili.com/video/BV16F411377F) to bilibili (present in Chinese). I've uploaded a series of Elliptic Curves also.(but there are some flaws and important things not covered or pointed out in this series)*
 
 
 <!---
