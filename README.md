@@ -9,7 +9,7 @@ I’m interested in **mathematics**, **cryptology**(especially public key crypto
 # How to reach me 
 - Email: su1yu4n@gmail.com
 - Bilibili: [@芜航数学系随缘](https://space.bilibili.com/5896804)
-- Blog(mostly written in Chinese): [su1yu4n's Blog (github pages)](su1yu4n.github.io)
+- Blog(mostly written in Chinese): [su1yu4n's Blog (github pages)](https://su1yu4n.github.io)
 
 # Programming Languages Skills
 - C
