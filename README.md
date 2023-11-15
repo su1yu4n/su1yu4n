@@ -20,23 +20,24 @@ I’m interested in **mathematics**, **cryptology**(especially public key crypto
   - Basic linear algebra
   - **Elementary number theory**
   - **Basic abstract algebra**
-  - **Classic modern cryptography schemes**, including well-known cryptanalysis on these schemes
+  - **Some everyday Cryptography schemes**, including some well-known cryptanalysis on these schemes
 
 - I've learned something about (familiarty from high to low): 
-  - **Compact Riemann Surfaces**
-  - **Elliptic curves (in) cryptography, also some isogeny based crypto**
-  - Algorithmic number theory
+  - Elliptic curves (in) cryptography, also some isogeny based crypto
+  - Compact Riemann Surfaces
   - Homomorphic Encryption (Pallier-DJN, TFHE, ...)
+
 
 - I'm learning or studying:
   - **lattice based cryptography**
- 
+
+ <!---
 - I've planned to learn:
   - Algebraic number theory (related to ideal lattice and more crypto)
   - Arakelov theory / geometry
 
   *By the way, I've uploaded [my mini course on algebra and number theory for cryptography](https://www.bilibili.com/video/BV16F411377F) to bilibili (present in Chinese). I've uploaded a series of Elliptic Curves also.(but there are some flaws and important things not covered or pointed out in this series)*
-
+--->
 
 <!---
 su1yu4n/su1yu4n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
