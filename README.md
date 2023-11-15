@@ -1,7 +1,7 @@
 # About
-Hi, I’m 随缘 (su1yu4n). I'm a member of[@Nepnep](https://ctftime.org/team/106104) and [@XDSEC](https://github.com/XDSEC).  \
-I’m interested in **mathematics**, **cryptology**(especially public key cryptography) and computer science. \
-**(2023.11) I'm currently learning about Hufu signature scheme(NIST PQC) and CSIDH.**
+Hi, I’m su1yu4n (随缘). <!-- I'm a member of[@Nepnep](https://ctftime.org/team/106104) and [@XDSEC](https://github.com/XDSEC). --> \
+I’m interested in **mathematics** and **cryptology**(including both theory and practice, especially public key cryptography). \
+**(2023.11) I'm currently learning about Hufu signature scheme(NIST PQC) and CSIDH, as well as learning Rust programming language.**
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=su1yu4n&count_private=true&theme=cobalt&show_icons=true)
