@@ -1,14 +1,13 @@
 # About
 Hi, I’m 随缘 (su1yu4n). I'm a member of[@Nepnep](https://ctftime.org/team/106104) and [@XDSEC](https://github.com/XDSEC).  \
 I’m interested in **mathematics**, **cryptology**(especially public key cryptography) and computer science. \
-**(2023.10) I'm currently learning and studying lattice based cryptography.**
+**(2023.11) I'm currently learning about Hufu signature scheme(NIST PQC) and CSIDH.**
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=su1yu4n&count_private=true&theme=cobalt&show_icons=true)
 
 # How to reach me 
 - Email: su1yu4n@gmail.com
-- Bilibili: [@芜航数学系随缘](https://space.bilibili.com/5896804)
 - Blog(mostly written in Chinese): [su1yu4n's Blog (github pages)](https://su1yu4n.github.io)
 
 # Programming Languages Skills
