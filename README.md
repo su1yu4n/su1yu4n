@@ -3,7 +3,7 @@ Hi, I’m su1yu4n (随缘). <!-- I'm a member of[@Nepnep](https://ctftime.org/te
 
 I’m interested in **mathematics** and **cryptology**(including both theory and practice, especially public key cryptography).
 
-**I'm currently focusing on CSIDH, an isogeny based key exchange scheme.** 
+**I'm currently focusing on isogeny based cryptography schemes (CSIDH and maybe SQISign)** 
 I'm also learning Rust programming language.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
@@ -34,11 +34,12 @@ I'm also learning Rust programming language.
 
 
 - I'm learning or studying:
-  - **isogeny based cryptography (especially CSIDH)** 
-  - Rust
+  - **isogeny based cryptography (especially optimization of CSIDH)** 
+  - Rust programming language
 
 
 - I've planned to learn:
+  - SQISign
   - more math and computation related to isogeny based crypto, e.g.
     - improved attacks on SIDH (since Castryck-Decru attack)
     - some usage of pairing
