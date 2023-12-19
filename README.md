@@ -1,10 +1,14 @@
 # About
 Hi, I’m su1yu4n (随缘). <!-- I'm a member of[@Nepnep](https://ctftime.org/team/106104) and [@XDSEC](https://github.com/XDSEC). -->
 
-I’m interested in **mathematics** and **cryptology**(including both theory and practice, especially public key cryptography).
+I’m interested in **mathematics** and **cryptology** (including both theory and practice, especially public key cryptography).
 
-**I'm currently focusing on isogeny based cryptography schemes (CSIDH and maybe SQISign)** 
-I'm also learning Rust programming language.
+**I'm currently focusing on CSIDH **. I've planned to learn more isogeny based cryptography after that. 
+
+*After Kani wreck SIKE, there are too many awesome things to learn!*
+
+<!--- I'm also learning Rust programming language. --->
+
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=su1yu4n&count_private=true&theme=cobalt&show_icons=true)
@@ -14,6 +18,8 @@ I'm also learning Rust programming language.
 - Blog: [su1yu4n's Blog (github pages)](https://su1yu4n.github.io)  
 
 (mostly written in Chinese)
+
+<!--- 
 
 # Programming Languages Skills
 - C
@@ -44,6 +50,8 @@ I'm also learning Rust programming language.
     - improved attacks on SIDH (since Castryck-Decru attack)
     - some usage of pairing
     - new algorithm: Clapotti
+
+  --->
   
  <!---
   *By the way, I've uploaded [my mini course on algebra and number theory for cryptography](https://www.bilibili.com/video/BV16F411377F) to bilibili (present in Chinese). I've uploaded a series of Elliptic Curves also.(but there are some flaws and important things not covered or pointed out in this series)*
