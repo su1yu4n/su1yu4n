@@ -1,9 +1,9 @@
 # About
 Hi, I’m su1yu4n (随缘). <!-- I'm a member of[@Nepnep](https://ctftime.org/team/106104) and [@XDSEC](https://github.com/XDSEC). -->
 
-I’m interested in **mathematics** and **cryptology** (including both theory and practice, especially public key cryptography).
+I’m interested in **mathematics** and **cryptology** (especially public key cryptology).
 
-**I'm currently focusing on CSIDH **. I've planned to learn more isogeny based cryptography after that. 
+**I'm currently focusing on CSIDH.** I've planned to learn further about isogeny based cryptography after that. 
 
 *After Kani wreck SIKE, there are too many awesome things to learn!*
 
@@ -15,9 +15,9 @@ I’m interested in **mathematics** and **cryptology** (including both theory an
 
 # How to reach me 
 - Email: su1yu4n@gmail.com
-- Blog: [su1yu4n's Blog (github pages)](https://su1yu4n.github.io)  
+- Blog: [su1yu4n's Blog (github pages)](https://su1yu4n.github.io) (mostly written in Chinese)
 
-(mostly written in Chinese)
+
 
 <!--- 
 
