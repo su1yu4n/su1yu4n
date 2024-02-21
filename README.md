@@ -1,5 +1,5 @@
 # About
-Hi, I’m su1yu4n (随缘). <!-- I'm a member of[@Nepnep](https://ctftime.org/team/106104) and [@XDSEC](https://github.com/XDSEC). -->
+Hi, I’m su1yu4n / 随缘 (not legal name but social id). <!-- I'm a member of[@Nepnep](https://ctftime.org/team/106104) and [@XDSEC](https://github.com/XDSEC). -->
 
 I’m interested in **mathematics** and **cryptology** (especially public key cryptology).
 
